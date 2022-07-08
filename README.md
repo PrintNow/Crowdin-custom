@@ -6,7 +6,7 @@ GitHub 仓库地址：https://github.com/PrintNow/Crowdin-custom
 
 ## 背景
 
-其实这个 Dockerfile 很简单，但由于项目需要，需要在 Crowdin 容器中使用 git 命令，所以想到如此对此
+其实这个 Dockerfile 很简单，但由于项目需要，需要在 Crowdin 容器中使用 git 命令，所以想到如此对策
 
 ## 构建
 

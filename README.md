@@ -2,7 +2,7 @@
 
 Crowdin CLI 镜像中，中包含 `git` 命令
 
-GitHub 仓库地址：
+GitHub 仓库地址：https://github.com/PrintNow/Crowdin-custom
 
 ## 背景
 
